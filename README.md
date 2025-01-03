@@ -11,8 +11,8 @@ Acest proiect este o aplicație simplă de gestionare a sarcinilor (To-Do List) 
 
 ## Tehnologii folosite
 
-- **HTML**: Structura paginii web
-- **CSS**: Stilizarea paginii
-- **JavaScript**: Funcționalitatea aplicației
-  - Manipularea DOM-ului
-  - Utilizarea **Local Storage** pentru stocarea sarcinilor
+- **HTML**: Structura paginii web.
+- **CSS**: Stilizarea paginii.
+- **JavaScript**: Funcționalitatea aplicației.
+  - Manipularea DOM-ului.
+  - Utilizarea **Local Storage** pentru stocarea sarcinilor.
