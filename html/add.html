@@ -37,25 +37,22 @@
         </div>
     </nav>
 
-    <div class="tasks-container container my-5">
-        <h2 class="mb-4">Lista de sarcini</h2>
-        <ul class="list-group">
-            <!-- Sarcinile exemplu -->
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <span>Sarcina 1</span>
-                <div>
-                    <button class="btn btn-success btn-sm me-2"><i class="fa-solid fa-check"></i></button>
-                    <button class="btn btn-danger btn-sm"><i class="fa-solid fa-x"></i></button>
-                </div>
-            </li>
-            
-        </ul>
+
+    <div class="add-container container my-5">
+        <form action="">
+            <div class="mb-3">
+                <label for="taskInput" class="form-label">Adaugă sarcina</label>
+                <input type="text" id="taskInput" class="form-control" placeholder="Introdu o sarcină">
+            </div>
+            <button type="submit" class="btn btn-success" id="addButton">ADD</button>
+        </form>
     </div>
     
 
 
 
-      
+
+      <script src="../js/add.js"></script>
     
 </body>
 </html>
